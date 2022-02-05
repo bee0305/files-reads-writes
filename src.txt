@@ -1,0 +1,5 @@
+There are many great poem generators out there,
+but most take your exact words and fit them
+into rigid pre-written structures. Our tool
+uses the dictionary to find words related to your input
+вмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсисрвмсиср
